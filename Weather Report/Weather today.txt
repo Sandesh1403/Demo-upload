@@ -1,0 +1,8 @@
+Enter the city name: Beed
+-------------------------------------------------------------
+Weather Stats for - BEED  || 23 Jun 2021 | 07:15:45 PM
+-------------------------------------------------------------
+Current temperature is: 23.96 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 84 %
+Current wind speed    : 4.08 kmph
